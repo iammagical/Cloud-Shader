@@ -23,6 +23,7 @@ Apply the shader onto a QuadMesh, with a subdivided width/depth of 20 (could be 
 * Noise Height - How high/wide you want the cloud vertex to be displaced by
 
 The lighting code is a modified snippit of NekoArts' [Botw shader](https://godotshaders.com/shader/update-botw-toon-shader/)
+!Warning! Because of how light and shadow is calculated, using an Omnilight, Spotlight3D, etc. with DirectionalLight3D will cause lighting artifacts, so make sure your mesh is on a different layer/cull mask then your non-directional lights.
 
 * Normal Bias - How much the light is going to be affected by the mesh's normal
 * Light Bias - Shifts how the light is going to affect the mesh
