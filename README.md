@@ -1,7 +1,7 @@
 # Cloud-Shader
 
 A simplified version of the cloud shader that I'm currently using for a game idea! [Here's the post!](https://www.reddit.com/r/godot/comments/1ag4x7k/spent_the_last_couple_days_playing_around_with/)
-You can modify/study/use it however you want. If you do use it for any projects, I'd appreciate crediting me!
+You can modify/study/use it however you want. If you do use it for any projects, I'd appreciate crediting me and maybe a [coffee!](ko-fi.com/ya834095)!
 
 https://github.com/iammagical/Cloud-Shader/assets/66885721/ab2cf157-0048-4630-93f3-7c57560b598a
 
