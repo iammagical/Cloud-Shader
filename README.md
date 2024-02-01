@@ -1,12 +1,12 @@
 # Cloud-Shader
 
 A simplified version of the cloud shader that I'm currently using for a game idea! [Here's the post!](https://www.reddit.com/r/godot/comments/1ag4x7k/spent_the_last_couple_days_playing_around_with/)
-You can modify/use it however you want. If you do use it for any projects, I'd appreciate crediting me!
+You can modify/study/use it however you want. If you do use it for any projects, I'd appreciate crediting me!
 
 https://github.com/iammagical/Cloud-Shader/assets/66885721/ab2cf157-0048-4630-93f3-7c57560b598a
 
 ## How the Shader Works!
-Basically, it's a billboarded quad mesh with vertex displacement to give it the appearance of a spherical volume. I chose this method because it doesn't seem graphically intensive (I haven't truly tested it though, so it might not be as efficient as I think). Follow the basic setup and use it as particles to create pretty cool looking clouds! I recommend this video on how to setup the clouds using the GPUParticle3D [Tears of the Kingdom Style Clouds in Godot 4! - Tutorial](https://www.youtube.com/watch?v=sNXj0RN09ps)
+Basically, it's a billboarded quad mesh with vertex displacement to give it the appearance of a spherical volume, it's overall pretty simple! I chose this method because it doesn't seem graphically intensive (I haven't truly tested it though, so it might not be as efficient as I think). Follow the basic setup and use it as particles to create pretty cool looking clouds! I recommend this video on how to setup the clouds using the GPUParticle3D [Tears of the Kingdom Style Clouds in Godot 4! - Tutorial](https://www.youtube.com/watch?v=sNXj0RN09ps)
 
 ## Basic Setup: 
 ![image](https://github.com/iammagical/Cloud-Shader/assets/66885721/11db7cec-1ba0-4416-aa30-5b71a8cca300)
